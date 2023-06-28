@@ -1,9 +1,11 @@
 <h1 align="center">Im Vegas</h1>
 <h3 align="center">Projects I've done below</h3>
 
-- Ghost Client [Krypton](https://www.youtube.com/watch?v=MVKXEiigXsE)
+- Ghost Client External [Krypton](https://www.youtube.com/watch?v=MVKXEiigXsE)
 
-- Ghost Client [BullyClient](https://www.youtube.com/watch?v=wCxZMxFhOco&t=)
+- Ghost Client External [BullyClient](https://www.youtube.com/watch?v=wCxZMxFhOco&t=)
+
+- Ghost Client Internal **Krypton Internal**
 
 - Clicker **Krypt**
 
