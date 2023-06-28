@@ -9,7 +9,7 @@
 
 - Clicker **Krypt**
 
-- Contact **Vegas#3760**
+- Contact **Discord: xVeggie**
 
 <h3 align="left">Connect:</h3>
 <p align="left">
