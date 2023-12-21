@@ -1,11 +1,13 @@
 <h1 align="center">Im Vegas</h1>
 <h3 align="center">Projects I've done below</h3>
 
-- Ghost Client External [Krypton](https://www.youtube.com/watch?v=MVKXEiigXsE)
+- Ghost Client External **Medieval Munchers** - 2D Java Dungeon Game
 
-- Ghost Client External [BullyClient](https://www.youtube.com/watch?v=wCxZMxFhOco&t=)
+- Ghost Client External [Krypton](https://www.youtube.com/watch?v=MVKXEiigXsE) - C++ Memory Scanner w/ cURL Authentication and ImGUI Menu
 
-- Ghost Client Internal **Krypton Internal**
+- Ghost Client External [BullyClient](https://www.youtube.com/watch?v=wCxZMxFhOco&t=) - C++ Memory Scanner w/ cURL Authentication and ImGUI Menu
+
+- Ghost Client Internal **Krypton Internal** - C++ JNI Internal with a wglSwapBufferHook to display internal menu (IMGUI)
 
 - Clicker **Krypt**
 
