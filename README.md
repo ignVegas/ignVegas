@@ -1,31 +1,15 @@
-<h1 align="center">I'm Vegas</h1>
-<h3 align="center">Projects</h3>
 
-- **Medieval Munchers** - is an immersive 2D Java dungeon game that combines strategic gameplay with captivating visuals, offering players an engaging experience in a medieval-themed world.
-  
-- [Krypton](https://www.youtube.com/watch?v=MVKXEiigXsE) - C++ Memory Scanner, distinguished by its robust cURL authentication and an intuitive ImGUI Menu. This tool empowers users with advanced memory exploration capabilities, ensuring efficiency and reliability in the realm of memory scanning.
-  
-- [BullyClient](https://www.youtube.com/watch?v=wCxZMxFhOco&t=) - C++ Memory Scanner, distinguished by its robust cURL authentication and an intuitive ImGUI Menu. This tool empowers users with advanced memory exploration capabilities, ensuring efficiency and reliability in the realm of memory scanning.
-  
-- **Krypton Internal** - showcases the prowess of C++ JNI (Java Native Interface) in an internal setting. Leveraging a wglSwapBufferHook, this tool ingeniously presents an internal menu using IMGUI. This fusion of technologies results in a powerful and sophisticated tool for memory analysis and manipulation within Java applications.
-  
-- AutoClicker **Krypt** - A free AutoClicker for Either basic use or Minecraft PvP (1.7.x-1.8.x) Old PvP
-  [Monitors and intercepts mouse-related events across the system using Windows API]
+# 💻 Tech Stack:
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=ignVegas&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=ignVegas&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ignVegas&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<h3 align="left">Contact:</h3>
-<p align="left">
-<a href="https://www.youtube.com/c/vegasfps" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="vegasfps" height="30" width="40" /></a>
-</p>
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-<h3 align="left">Languages:</h3>
-<p align="left"> 
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
-  </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-  </a> 
-</p>
+---
+[![](https://visitcount.itsvg.in/api?id=ignVegas&icon=2&color=4)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
