@@ -1,15 +1,48 @@
+# 👋 Hi, I'm Vegas Mantsch  
 
-# 💻 Tech Stack:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ignVegas&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=ignVegas&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ignVegas&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+**Computer Science student (UWGB) • Software Engineering • Backend & Cloud Development**
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+I build fast, scalable applications with clean architecture and real-world impact.  
+Focused on backend engineering, cloud services, and modern full-stack development.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=ignVegas&label=Views!&icon=2&pretty=false)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🚀 Featured Projects
+
+### 🔹 Universal Wait Tracker  
+Real-time Universal Orlando ride wait times.  
+React • Node.js • Express • SQL • Vercel  
+*Optimized performance with caching + efficient API routing.*
+
+### 🔹 Krypton  
+Commercial-grade C++ tool with 300+ users and $10K+ revenue.  
+C++ • OpenGL/ImGui • TypeScript • SQL  
+*Built authentication system, dashboards, and real-time debugging tools.*
+
+---
+
+## 🧰 Tech Stack
+
+### Languages & Frameworks  
+[![My Skills](https://skillicons.dev/icons?i=js,ts,react,nodejs,express,cs,cpp,java,html,css)](https://skillicons.dev)
+
+### Tools & Cloud  
+[![My Skills](https://skillicons.dev/icons?i=azure,vercel,git,github,mysql,postman,dotnet)](https://skillicons.dev)
+
+---
+
+## 📚 What I'm Working On
+- Building full-stack applications  
+- Strengthening backend & cloud system design  
+- Advanced API performance + reliability  
+
+---
+
+## 🎯 Open To
+Backend Roles • Full-Stack Roles • Cloud Engineering • Internships & Junior Positions
+
+---
+
+## 🔗 Connect
+**LinkedIn:** https://www.linkedin.com/in/vegasm  
+**Portfolio:** https://www.vegasmantsch.com
