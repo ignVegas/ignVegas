@@ -7,17 +7,12 @@ Focused on backend engineering, cloud services, and modern full-stack developmen
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Featured Project
 
 ### 🔹 Universal Wait Tracker  
 Real-time Universal Orlando ride wait times.  
 React • Node.js • Express • SQL • Vercel  
 *Optimized performance with caching + efficient API routing.*
-
-### 🔹 Krypton  
-Commercial-grade C++ tool with 300+ users and $10K+ revenue.  
-C++ • OpenGL/ImGui • TypeScript • SQL  
-*Built authentication system, dashboards, and real-time debugging tools.*
 
 ---
 
